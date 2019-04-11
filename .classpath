@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/grpc-core-1.19.0.jar"/>
+	<classpathentry kind="lib" path="lib/grpc-stub-1.19.0.jar"/>
+	<classpathentry kind="lib" path="lib/protobuf-java-util-3.7.1.jar"/>
+	<classpathentry kind="lib" path="lib/protobuf-java-3.7.1.jar"/>
+	<classpathentry kind="lib" path="lib/grpc-protobuf-1.19.0.jar"/>
+	<classpathentry kind="lib" path="lib/grpc-context-1.19.0.jar"/>
+	<classpathentry kind="lib" path="lib/grpc-netty-shaded-1.19.0.jar"/>
+	<classpathentry kind="lib" path="lib/commons-pool2-2.4.3.jar"/>
+	<classpathentry kind="lib" path="lib/proto-google-common-protos-1.12.0.jar"/>
+	<classpathentry kind="lib" path="lib/jsr305-3.0.2.jar"/>
+	<classpathentry kind="lib" path="lib/guava-26.0-android.jar"/>
+	<classpathentry kind="lib" path="lib/grpc-protobuf-lite-1.19.0.jar"/>
+	<classpathentry kind="lib" path="lib/opencensus-api-0.19.2.jar"/>
+	<classpathentry kind="lib" path="lib/opencensus-contrib-grpc-metrics-0.19.2.jar"/>
+	<classpathentry kind="lib" path="lib/netty-codec-http2-4.1.32.Final.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
